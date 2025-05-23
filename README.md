@@ -9,7 +9,7 @@ Hello! I'm Aston Lazar, a dedicated Full-Stack Developer with a passion for buil
 - HTML, CSS, JavaScript, TypeScript
 
 ### Frameworks & Libraries
-- React, Redux, EJS, Node.js, Express.js, Koa.js
+- React, Redux, EJS, Node.js, Express.js
 
 ### Databases
 - MongoDB, PostgreSQL
@@ -19,6 +19,3 @@ Hello! I'm Aston Lazar, a dedicated Full-Stack Developer with a passion for buil
 
 ### Deployment & Hosting
 - Nginx, AWS
-
-### Package Managers
-- npm
